@@ -1,1 +1,1 @@
-# deliberate-audio-task
+# music-chorus-segmentation
